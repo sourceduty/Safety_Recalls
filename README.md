@@ -1,6 +1,6 @@
 # Safety_Recalls
 
-🛒 Consumer product transaction records and recalls.
+🛒 Consumer electronic product transaction records and recalls.
 
 ***
 
