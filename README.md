@@ -5,7 +5,7 @@
 ***
 
 
-Consumer electronic marketplaces would be much safer if all electric consumer product transactions were recorded and further customer information was recorded to cash transactions. Strict use of recorded 
+Consumer electronic marketplaces would be much safer if all electric consumer product transactions were recorded and further customer information was recorded for cash transactions. Strict use of recorded 
 transactions for electrical consumer products would allow very easy safety recalls. Any consumer electrical product that needs to obtain certifications like CE marking for Europe, FCC for the United States, and 
 CCC for China, should be sold using only digitally recorded transactions. If these products are purchased with cash then further customer information should be required.
 
