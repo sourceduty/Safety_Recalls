@@ -10,7 +10,7 @@ transactions for electrical consumer products would allow very easy safety recal
 CCC for China, should be sold using only digitally recorded transactions. If these products are purchased with cash then further customer information should be required.
 
 On November 4, 2023, Lenovo USB-C Laptop Power Banks were recalled due to fire hazard as internal screws can come loose, causing a short circuit and overheating of the lithium-ion battery. About 2,850 units were 
-affected in the US and 510 in Canada. Not all of Lenovo's customers will repair, replace, dispose or requested a refund.
+affected in the US and 510 in Canada. Not all of Lenovo's customers will repair, replace, dispose or request a refund.
 
 
 ***
